@@ -1,0 +1,14 @@
+Name of App- Articlo
+
+Problems-
+1. Long Articles
+2. Boring Articles
+3. Few Authors on most articles pages which leads to less views on the topic
+4. Annoying Ads which hamper the viewing experience
+5. Complicated editors for uploading articles if any
+
+Features-
+1. Anyone can upload articles instaniously
+2. Easy to use editor 
+3. Clean UI for a smooth user experience
+4. No annoying Ads
